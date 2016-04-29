@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN40301ucmf_29_0008.png"; bbox 0 0 2394 3416; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 188 318 1159 667">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 188 318 1159 667">
+     <span class='ocr_line' id='line_1_1' title="bbox 188 318 1159 667; baseline -0.012 -55"><span class='ocrx_word' id='word_1_1' title='bbox 188 318 873 667; x_wconf 77' lang='lat' dir='ltr'><strong>Meneke‚</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 939 322 1159 603; x_wconf 81' lang='lat' dir='ltr'>Ge</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 194 1769 1169 2156">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 75 1769 1169 2156">
+     <span class='ocr_line' id='line_1_2' title="bbox 194 1769 1169 2156; baseline -0.016 -89.849"><span class='ocrx_word' id='word_1_3' title='bbox 194 1769 1169 2156; x_wconf 78' lang='lat' dir='ltr'>philologico-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1202 3416">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1202 3416">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1202 3416; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 1202 3416; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 200 2746 1197 3112">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 200 2746 1197 3112">
+     <span class='ocr_line' id='line_1_4' title="bbox 200 2746 1197 3112; baseline -0.033 -56"><span class='ocrx_word' id='word_1_5' title='bbox 200 2746 1197 3112; x_wconf 76' lang='lat' dir='ltr'><strong>Vitemberga</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
